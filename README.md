@@ -27,3 +27,8 @@ NER model first identifies an entity and then categorizes the entity into the mo
 Spacy is an open-source Natural Language Processing library that can be used for various tasks. It has built-in methods for Named Entity Recognition. Spacy has a fast statistical entity recognition system.
 
  We can use spacy very easily for NER tasks. Though often we need to train our own data for business-specific needs, the spacy model general performs well for all types of text data.  
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Download app.py and index.html to understand how name entity extraction works
